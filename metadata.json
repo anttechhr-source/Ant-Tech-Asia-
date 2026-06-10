@@ -1,0 +1,6 @@
+{
+  "name": "Ant-Tech Asia",
+  "description": "Professional recruitment agency specializing in Technology, Game, AI, Blockchain, Finance, and Executive Search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
